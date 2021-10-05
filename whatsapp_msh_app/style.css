@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.card{
+    margin-top: 100px;
+}
+.col-md-5{
+    margin: auto;
+}
